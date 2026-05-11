@@ -24,7 +24,7 @@ This is the phase 1 repository setup. The current files provide the public struc
 
 ## Data Availability
 
-No identifiable patient data are included in this repository. Future releases will contain anonymized feature-level data only after institutional review.
+No personally identifiable student data are included in this repository. Future releases will contain anonymized feature-level data only after institutional review.
 
 ## Reproduction
 
